@@ -10,6 +10,10 @@ Kemudian, kita berangkat ke profile page:
 ![Profile Page](https://github.com/ferren11/WebProg-ProfilePage/blob/master/profilepage.png)
 
 Tambahan page:
-![Profile Page](https://github.com/ferren11/WebProg-ProfilePage/blob/master/profilepage.png)
+![Data Page](https://github.com/kaniaagt/WebProgGSLC1/blob/master/datapage.jpg)
+
+Tambahan Coding:
+- Penambahan penggunaan Reusable Component Tag untuk di bagian footer, main content, dan header
+- Penggunaan conditional rendering @if, @elseif, @endif dan loop rendering @foreach di bagian tambahan page (data page) untuk membuat tabel dan isi tabel
 
 Terima kasih!
