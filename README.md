@@ -9,6 +9,8 @@ Terdapat highlight yang diberikan ketika hover button pada navbar:
 Kemudian, kita berangkat ke profile page:
 ![Profile Page](https://github.com/kaniaagt/WebProgGSLC1/blob/master/profilepage.png)
 
+# Assignment 2: Blade Template Engine
+
 Tambahan page:
 ![Data Page](https://github.com/kaniaagt/WebProgGSLC1/blob/master/datapage.jpg)
 
