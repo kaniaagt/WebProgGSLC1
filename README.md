@@ -9,4 +9,7 @@ Terdapat highlight yang diberikan ketika hover button pada navbar:
 Kemudian, kita berangkat ke profile page:
 ![Profile Page](https://github.com/ferren11/WebProg-ProfilePage/blob/master/profilepage.png)
 
+Tambahan page:
+![Profile Page](https://github.com/ferren11/WebProg-ProfilePage/blob/master/profilepage.png)
+
 Terima kasih!
