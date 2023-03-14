@@ -14,6 +14,6 @@ Tambahan page:
 
 Tambahan Coding:
 - Penambahan penggunaan Reusable Component Tag untuk di bagian footer, main content, dan header
-- Penggunaan conditional rendering @if, @elseif, @endif dan loop rendering @foreach di bagian tambahan page (data page) untuk membuat tabel dan isi tabel
+- Penggunaan conditional rendering @if, @elseif, @endif dan loop rendering @foreach di bagian tambahan page (data page) untuk membuat tabel (dengan loop rendering) dan isi tabel (dengan conditional rendering)
 
 Terima kasih!
