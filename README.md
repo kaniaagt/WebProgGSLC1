@@ -1,13 +1,13 @@
 # Assignment 1: Profile Page
 
 Berikut ini adalah tampilan homepage dari website kami:
-![Hompage](https://github.com/ferren11/WebProg-ProfilePage/blob/master/homepage.png)
+![Homepage](https://github.com/kaniaagt/WebProgGSLC1/blob/master/homepage.png)
 
 Terdapat highlight yang diberikan ketika hover button pada navbar:
-![Hover](https://github.com/ferren11/WebProg-ProfilePage/blob/master/homepage-hover.png)
+![Hover](https://github.com/kaniaagt/WebProgGSLC1/blob/master/homepage-hover.png)
 
 Kemudian, kita berangkat ke profile page:
-![Profile Page](https://github.com/ferren11/WebProg-ProfilePage/blob/master/profilepage.png)
+![Profile Page](https://github.com/kaniaagt/WebProgGSLC1/blob/master/profilepage.png)
 
 Tambahan page:
 ![Data Page](https://github.com/kaniaagt/WebProgGSLC1/blob/master/datapage.jpg)
